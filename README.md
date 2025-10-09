@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **monty.my1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X90h4ldt_yuJSu8kGzcvAGjSttYFVILT/view?usp=sharing](https://drive.google.com/file/d/14heFHuuh-TpnWpVEtv2BnZXaGNZm8yJS/view)
+- 📄 Wants to know about me? - https://tinyurl.com/cu97cwmu **(LinkedIn ID)**
 
-- ⚡ Fun fact **I am a Professional Esport Gamer**
+- ⚡ Fun fact **I am a Professional Esport Gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
