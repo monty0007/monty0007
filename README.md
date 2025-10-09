@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **monty.my1234@gmail.com**
 
-- 📄 Wants to know more about me? - www.linkedin.com/in/manishyadavl3 **(LinkedIn ID)**
+- 📄 Wants to know more about me? - www.linkedin.com/in/manishyadav13 **(LinkedIn ID)**
 
 - ⚡ Fun fact **I am a Professional Esport Gamer.**
 
