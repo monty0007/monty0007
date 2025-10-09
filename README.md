@@ -1,16 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Manish Yadav</h1>
-<h3 align="center">I'm a passionate Frontend Developer with a strong dedication to crafting visually appealing and user-friendly web interfaces. My expertise lies in turning complex problems into simple, beautiful, and intuitive designs.</h3>
+<h3 align="center">I’m a GenAI Engineer with hands-on experience in LangChain, Azure AI Foundry, Hugging Face, Power Automate, and Power Apps. I build automation solutions, leverage Generative AI, and create efficient systems using Microsoft products. I love turning complex problems into simple, intuitive, and scalable solutions..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monty0007&label=Profile%20views&color=0e75b6&style=flat" alt="monty0007" /> </p>
 
 
-- 🔭 I’m currently working on **Three.JS and GSAP Projects**
+- 🔭 I’m currently working on **Agentic Solutions & Microsoft product integrations**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Generative AI, automation, and web scraping solutions**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **GenAI Stuff**
 
 - 📫 How to reach me **monty.my1234@gmail.com**
 
