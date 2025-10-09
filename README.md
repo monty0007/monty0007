@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h2 align="center">Hi 👋, I'm Manish Yadav | 2xAzureCertified (AI-102 & Az-900) | LLMs • LangChain • RAG • n8n • Azure AI | AI Engineer | Power Automate | Full Stack Developer</h2>
+<h1 align="center">Hi 👋, I'm Manish Yadav </h1>
 <h3 align="center">I’m a GenAI Engineer with hands-on experience in LangChain, Azure AI Foundry and Hugging Face. I build automation solutions, leverage Generative AI, and create efficient systems using Microsoft products. I love turning complex problems into simple, intuitive, and scalable solutions..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
