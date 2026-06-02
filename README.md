@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Manish Yadav </h1>
+<h1 align="center">Hi 👋 I'm Manish Yadav </h1>
 <h3 align="center">I’m a GenAI Engineer with hands-on experience in LangChain, Azure AI Foundry and Hugging Face. I build automation solutions, leverage Generative AI, and create efficient systems using Microsoft products. I love turning complex problems into simple, intuitive, and scalable solutions..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **Generative AI, automation, and web scraping solutions**
 
-- 💬 Ask me about **GenAI Stuff**
-
 - 📫 How to reach me **monty.my1234@gmail.com**
 
-- 📄 Wants to know more about me? - www.linkedin.com/in/manishyadav13 **(LinkedIn ID)**
+- 📄 Wants to know more about me? - https://www.linkedin.com/in/manish-yadav-8a5667202/ **(LinkedIn ID)**
 
 - ⚡ Fun fact **I am a Professional Esport Gamer.**
 
